@@ -1,2 +1,2 @@
-# my-frist-repo
+# my-first-repo
 my first git hub experence 
